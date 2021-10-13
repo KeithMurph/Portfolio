@@ -1,0 +1,77 @@
+
+[
+  {
+
+    "id": 1,
+    "name": "There and back Again",
+    "description": "Your nerdy workout companion. Log your miles and track your Journey to Mordor!",
+    "image": "https://i.postimg.cc/d0THdZ91/Screenshot-2021-09-23-201727.png",
+    "github": "https://github.com/ksapir/There-And-Back-Again",
+    "deploy": "https://there-and-back-again-front.herokuapp.com/",
+    "project": "Group Project",
+    "tech": "JavaScript, React, MongoDB, Node, Express"
+    
+    
+    },
+    
+  {
+    
+      "id": 2,
+      "name": "Perfect Home",
+      "description": "Find the perfect pet for your family and their needs",
+      "image": "https://i.postimg.cc/G2Pm0Vv7/Screenshot-2021-08-24-234915.png",
+      "github": "https://github.com/KeithMurph/PerfectHome",
+      "deploy": "https://perfect-home-finder.herokuapp.com",
+      "project": "Group Project",
+      "tech": "JavaScript, Handlbars, MySQL, Node, Express"
+
+  },
+  {
+    
+    "id": 3,
+    "name": "Budget Tracker",
+    "description": "Manage your budget! My first PWA!! Download and watch your budget history.",
+    "image": "https://i.postimg.cc/sXhykqn0/Screenshot-2021-08-22-204634.png",
+    "github": "https://github.com/KeithMurph/budgetTrackerPWA",
+    "deploy": "https://budget-tracker-pwa-kmurph.herokuapp.com/",
+    "project": "Solo Project",
+    "tech": "JavaScript, MongoDB, Node, Express"
+
+},
+{
+  "id": 4,
+  "name": "Tech Blog",
+  "description": "Post and comment your thoughts on tech new or old.",
+  "image": "https://i.postimg.cc/dtj9w0pG/Screenshot-2021-08-24-162359.png",
+  "github": "https://github.com/KeithMurph/TechBlog",
+  "deploy": "https://keithstechblog.herokuapp.com/",
+  "project": "Solo Project",
+  "tech": "JavaScript, Handlebars, MySQL, Node, Express"
+
+},
+{
+    
+  "id": 5,
+  "name": "Password Generator",
+  "description": "Generate a secure password!",
+  "image": "https://i.postimg.cc/3rqSJ5pt/Screenshot-2021-08-26-005304.png",
+  "github": "https://github.com/KeithMurph/passwordgenerator",
+  "deploy": "https://keithmurph.github.io/passwordgenerator/",
+  "project": "Solo Project",
+  "tech": "JavaSript, CSS, HTML"
+
+},
+
+{
+"id": 6,
+"name": "Lets Settle It",
+"description": "Conflict Resolution app for indecisive people",
+"image": "https://i.postimg.cc/WzwwYRLR/Screenshot-2021-08-11-181257.png",
+"github": "https://github.com/MagnetMoss/Lets-Settle-It",
+"deploy": "https://magnetmoss.github.io/Lets-Settle-It/",
+"project": "Group Project",
+"tech": "JavaScript, CSS, HTML"
+
+}
+
+]
