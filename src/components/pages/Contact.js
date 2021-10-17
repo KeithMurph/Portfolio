@@ -7,7 +7,7 @@ export default function Contact() {
    <h1 className="top-title text-center text-dark">Contact Me</h1>
     <br></br>
     <br></br>
-    <h1 className="text-center text-light">Resume<a class="col-md-4" href="https://docs.google.com/document/d/1w4x_fDkAAaYf3KUd5phbOeSH9ZSemEd2pTeVXqkrJ6o/edit" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/bubbles/100/000000/resume.png" alt="resume"/></a> </h1>
+    <h1 className="text-center text-light">Resume<a class="col-md-4" href="https://docs.google.com/document/d/11eHnqlRR_9j8tF3NmkRI2zpijkmPjCno8byDb-DZZCQ/edit" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/bubbles/100/000000/resume.png" alt="resume"/></a> </h1>
    <h1 className="text-center text-light">GitHub  <a   href="https://github.com/KeithMurph" target="_blank" rel="noreferrer" ><img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="github"/></a>/KeithMurph</h1>
   
    <h1 className="text-center text-light">LinkedIn <a class="col-md-4" href="https://www.linkedin.com/in/keithmurph/" target="_blank" rel="noreferrer" > <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedIn"/></a>/in/keithmurph</h1>
