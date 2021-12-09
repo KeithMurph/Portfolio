@@ -13,7 +13,7 @@ export default function Contact() {
    <h1 className="text-center text-light">LinkedIn <a class="col-md-4" href="https://www.linkedin.com/in/keithmurph/" target="_blank" rel="noreferrer" > <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedIn"/></a>/in/keithmurph</h1>
 
    <h1 className="text-center text-light">Email <a class="col-md-4" href="mailto: keithmurphy94@gmail.com" rel="noreferrer"  ><img src="https://img.icons8.com/bubbles/100/000000/email--v1.png" alt="email"/></a>
-    keithmurphy94@gmail.com </h1>
+    keithmurphy.dev@gmail.com </h1>
 
    </div>
    <div className="bg-dark">

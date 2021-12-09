@@ -64,7 +64,7 @@ Based in Seattle WA
                 </h1>
 
                 <h3 className='text-dark text-center'>
-                 <p>Email- keithmurphy94@gmail.com</p>
+                 <p>Email- keithmurphy.dev@gmail.com</p>
 
                 </h3>
 
