@@ -44,6 +44,7 @@
   "description": "My clone to have unlimited plays!",
   "image": "https://i.postimg.cc/NfWdkFt9/Screenshot-2022-02-04-102616.png",
   "github": "https://github.com/KeithMurph/Wordle",
+  "deploy": "https://github.com/KeithMurph/Wordle",
   "tech": "JavaScript, CSS, HTML"
 
 }
