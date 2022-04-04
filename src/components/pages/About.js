@@ -15,19 +15,16 @@ export default function About() {
         />
 
         <div>
+          <h1 class=" text-center">Full-Stack Web Developer</h1>
+
           <h1 class=" text-center">
-            Full-Stack Web Developer
- 
-          </h1>
-     
-          <h1 class=" text-center">
-            Creative mind ready to utilize my passion for tech and creating apps to follow a dream career
+            Creative mind ready to utilize my passion for tech and creating apps
+            to follow a dream career
           </h1>
 
           <h1 className="text-center">
             🔵 Languages
-            <br/>
-           
+            <br />
             <img
               src="https://img.icons8.com/color/48/000000/javascript--v1.png"
               alt="js"
@@ -44,7 +41,6 @@ export default function About() {
             />{" "}
             HTML
           </h1>
-      
 
           <h1 className="text-center">
             🔵Technical Skills
@@ -52,32 +48,32 @@ export default function About() {
             <img
               src="https://img.icons8.com/color/48/000000/nodejs.png"
               alt="node"
-            />{" "}
-            Node
+            />
+            NodeJs
+            <img
+              src="https://img.icons8.com/ios-glyphs/60/000000/react.png"
+              alt="react"
+            />
+            ReactJs
             <img
               src="https://img.icons8.com/color/48/000000/mongodb.png"
               alt="mongo"
-            />{" "}
-            Mongo
+            />
+            MongoDB
             <img
               src="https://img.icons8.com/ios-filled/50/000000/mysql.png"
               alt="mysql"
-            />{" "}
+            />
             MySQL
             <img
               src="https://img.icons8.com/color/48/000000/bootstrap.png"
               alt="bootstrap"
-            />{" "}
+            />
             Bootstrap
-            <img
-              src="https://img.icons8.com/ios-glyphs/60/000000/react.png"
-              alt="react"
-            />{" "}
-            React
             <img
               src="https://img.icons8.com/ios-filled/50/000000/git.png"
               alt="git"
-            />{" "}
+            />
             Git
           </h1>
 

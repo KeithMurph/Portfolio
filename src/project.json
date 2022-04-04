@@ -21,7 +21,7 @@
       "image": "https://i.postimg.cc/ydprVFXK/Screenshot-2021-08-24-234915.png",
       "github": "https://github.com/KeithMurph/PerfectHome",
       "deploy": "https://perfect-home-finder.herokuapp.com",
-      "tech": "JavaScript, Handlebars, MySQL,"
+      "tech": "JavaScript, Handlebars, MySQL"
 
   },
 
@@ -29,7 +29,7 @@
     
     "id": 3,
     "name": "Budget Tracker",
-    "description": "Manage your budget! My first PWA!! Download and watch your budget history.",
+    "description": "Manage your budget! My first PWA! Download and watch your budget history.",
     "image": "https://i.postimg.cc/NMKZ2J0F/Screenshot-2021-08-22-204634.png",
     "github": "https://github.com/KeithMurph/budgetTrackerPWA",
     "deploy": "https://budget-tracker-pwa-kmurph.herokuapp.com/",
