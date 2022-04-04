@@ -17,7 +17,7 @@
     
       "id": 2,
       "name": "Perfect Home",
-      "description": "Find the perfect pet for your family and their needs",
+      "description": "Pet adoption App",
       "image": "https://i.postimg.cc/ydprVFXK/Screenshot-2021-08-24-234915.png",
       "github": "https://github.com/KeithMurph/PerfectHome",
       "deploy": "https://perfect-home-finder.herokuapp.com",
