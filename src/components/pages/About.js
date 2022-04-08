@@ -78,7 +78,7 @@ export default function About() {
           </h1>
 
           <h3 className="text-center">
-            <p>Email- keithmurphy.dev@gmail.com</p>
+            <p> keithmurphy.dev@gmail.com</p>
           </h3>
         </div>
       </div>

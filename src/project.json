@@ -49,9 +49,20 @@
 
 }
 ,
+
+{
+  "id": 5,
+  "name": "Live Code Editor",
+  "description": "A live code editor for the web!",
+  "image": "https://i.postimg.cc/HnQHfkcZ/Screenshot-2022-04-08-030622.jpg",
+  "github": "https://github.com/KeithMurph/codeEditor",
+  "deploy": "https://keithmurph.github.io/codeEditor/",
+  "tech": "JavaScript, HTML, CSS"
+
+},
 {
     
-  "id": 5,
+  "id": 6,
   "name": "Password Generator",
   "description": "Generate a secure password!",
   "image": "https://i.postimg.cc/hj0Qxr3F/Screenshot-2021-08-26-005304.png",
@@ -60,17 +71,8 @@
   "tech": "JavaScript, CSS, HTML"
 
 }
-,
-{
-  "id": 6,
-  "name": "Tech Blog",
-  "description": "Post and comment your thoughts on tech new or old.",
-  "image": "https://i.postimg.cc/L6QfNx42/Screenshot-2021-12-08-210657.png",
-  "github": "https://github.com/KeithMurph/TechBlog",
-  "deploy": "https://keithstechblog.herokuapp.com/",
-  "tech": "JavaScript, Handlebars, MySQL, Node, Express"
 
-}
+
 
 
 ]

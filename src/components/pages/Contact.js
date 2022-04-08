@@ -53,8 +53,12 @@ export default function Contact() {
           /in/keithmurph
         </h1>
 
+        
+   
+
+
         <h1 className="text-center text-light">
-          Email
+        
           <a
             class="col-md-4"
             href="mailto: keithmurphy.dev@gmail.com"
@@ -65,7 +69,7 @@ export default function Contact() {
               alt="email"
             />
           </a>
-          keithmurphy.dev@gmail.com{" "}
+          keithmurphy.dev@gmail.com
         </h1>
       </div>
       <div></div>

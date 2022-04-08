@@ -30,6 +30,19 @@ export default function Portfolio() {
             />
           ))}
         </Wrapper>
+        <br/>
+        <h1 className="text-center text-light">
+              
+          <a
+            class="col-md-4"
+            href="https://www.npmjs.com/~fakiehawk"
+            target="_blank"
+            rel="noreferrer"
+          >
+          <img src="https://img.icons8.com/color/100/000000/npm.png" alt="npm icon"/>
+          </a>
+            / fakiehawk
+                  </h1>
         <div className="block"></div>
       </div>
     </div>
