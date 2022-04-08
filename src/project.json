@@ -54,7 +54,7 @@
   "id": 5,
   "name": "Live Code Editor",
   "description": "A live code editor for the web!",
-  "image": "https://i.postimg.cc/HnQHfkcZ/Screenshot-2022-04-08-030622.jpg",
+  "image": "https://i.postimg.cc/qBWyJQbV/Screenshot-2022-04-08-030622.jpg",
   "github": "https://github.com/KeithMurph/codeEditor",
   "deploy": "https://keithmurph.github.io/codeEditor/",
   "tech": "JavaScript, HTML, CSS"

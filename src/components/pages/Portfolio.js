@@ -8,13 +8,13 @@ export default function Portfolio() {
     return <div className="wrapper">{props.children}</div>;
   }
   return (
-    <div>
+    <div >
       <div className="container">
-        <div>
+      
           <h1 id="portfolio" className="top-title text-center">
             My Portfolio
           </h1>
-        </div>
+     
 
         <Wrapper id="card-data">
           {projects.map((project) => (
@@ -30,6 +30,7 @@ export default function Portfolio() {
             />
           ))}
         </Wrapper>
+      
         <br/>
         <h1 className="text-center text-light">
               
@@ -43,7 +44,7 @@ export default function Portfolio() {
           </a>
             / fakiehawk
                   </h1>
-        <div className="block"></div>
+       
       </div>
     </div>
   );

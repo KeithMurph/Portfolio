@@ -1,4 +1,8 @@
 body {
+display: flex;
+flex-direction: column;
+align-items: center;
+
   background: rgb(178,183,223);
   background: radial-gradient(circle, rgba(178,183,223,0.3897934173669467) 0%, rgba(148,187,233,1) 11%, rgba(149,180,222,1) 66%, rgba(39,116,150,1) 95%);
 }
@@ -9,4 +13,19 @@ body {
 h1 {
   color: #FFFF
 ;
+}
+
+@media (max-width: 575.98px) { 
+  :root {
+      --dark-blue: #161619;
+      --blue: #5e7189;
+      --light-blue: rgb(37, 25, 70);
+      --pink: rgb(255, 40, 113);
+  }
+
+
+  .center {
+      display: flex; 
+      justify-content: center;
+  }
 }
