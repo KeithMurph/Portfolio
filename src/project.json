@@ -5,7 +5,7 @@
     "id": 1,
     "name": "There and back Again",
     "description": "Lord of the Rings walking companion",
-    "image": "https://i.postimg.cc/MpZRYhJs/Screenshot-2021-09-23-201727.png",
+    "image": "https://i.postimg.cc/66d7Lw6q/Screenshot-2022-04-08-034350.jpg",
     "github": "https://github.com/ksapir/There-And-Back-Again",
     "deploy": "https://there-and-back-again-front.herokuapp.com/",
     "tech": "JavaScript, React, MongoDB"
