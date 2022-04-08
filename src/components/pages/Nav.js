@@ -6,7 +6,7 @@ export default function Navigation(props) {
   return (
     <div class="row">
       <div className="navigation">
-        <Navbar bg="dark" variant="pills">
+        <Navbar className="justify-content-center" bg="dark" variant="pills">
           <NavLink className="nav-link" to="/about">
           About Me
           </NavLink>
