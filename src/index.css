@@ -11,8 +11,8 @@ align-items: center;
 
 
 h1 {
-  color: #FFFF
-;
+  color: #FFFF;
+  text-align: center;
 }
 
 @media (max-width: 575.98px) { 
@@ -22,7 +22,6 @@ h1 {
       --light-blue: rgb(37, 25, 70);
       --pink: rgb(255, 40, 113);
   }
-
 
   .center {
       display: flex; 

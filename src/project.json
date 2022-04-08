@@ -4,7 +4,7 @@
 
     "id": 1,
     "name": "There and back Again",
-    "description": "Lord of the Rings walking companion",
+    "description": "LOTR walking companion",
     "image": "https://i.postimg.cc/dV4nsphQ/Screenshot-2022-04-08-034350.jpg",
     "github": "https://github.com/ksapir/There-And-Back-Again",
     "deploy": "https://there-and-back-again-front.herokuapp.com/",
@@ -29,7 +29,7 @@
     
     "id": 3,
     "name": "Budget Tracker",
-    "description": "Manage your budget! My first PWA! Download and watch your budget history.",
+    "description": "Manage your budget! ",
     "image": "https://i.postimg.cc/NMKZ2J0F/Screenshot-2021-08-22-204634.png",
     "github": "https://github.com/KeithMurph/budgetTrackerPWA",
     "deploy": "https://budget-tracker-pwa-kmurph.herokuapp.com/",
@@ -41,7 +41,7 @@
     
   "id": 4,
   "name": "Wordle Clone",
-  "description": "My clone to have unlimited plays!",
+  "description": "My clone for unlimited plays!",
   "image": "https://i.postimg.cc/NfWdkFt9/Screenshot-2022-02-04-102616.png",
   "github": "https://github.com/KeithMurph/Wordle",
   "deploy": "https://github.com/KeithMurph/Wordle",
