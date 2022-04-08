@@ -33,7 +33,7 @@ export default function Contact() {
               alt="github"
             />
           </a>
-          /KeithMurph
+      
         </h1>
 
         <h1 className="text-center text-light">
@@ -50,7 +50,7 @@ export default function Contact() {
               alt="linkedIn"
             />
           </a>
-          /in/keithmurph
+     
         </h1>
 
         
