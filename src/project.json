@@ -24,10 +24,22 @@
       "tech": "JS, Handlebars, MySQL"
 
   },
-
   {
     
     "id": 3,
+    "name": "TENSORFLOW.JS SMART CAM",
+    "description": "Image recognition in the browser",
+    "image": "https://i.postimg.cc/qvKMV29S/smartcam-Screen-04-11-092934.jpg",
+    "github": "https://github.com/KeithMurph/tensorFlowSmartCam",
+    "deploy": "https://keithmurph.github.io/tensorFlowSmartCam/",
+    "tech": "TensorFlow.js, JS, CSS, HTML"
+  
+  }
+  ,
+
+  {
+    
+    "id": 4,
     "name": "Budget Tracker",
     "description": "Manage your budget! ",
     "image": "https://i.postimg.cc/NMKZ2J0F/Screenshot-2021-08-22-204634.png",
@@ -37,18 +49,7 @@
 
 },
 
-{
-    
-  "id": 4,
-  "name": "TENSORFLOW.JS SMART CAM",
-  "description": "Image recognition in the browser",
-  "image": "https://i.postimg.cc/qvKMV29S/smartcam-Screen-04-11-092934.jpg",
-  "github": "https://github.com/KeithMurph/tensorFlowSmartCam",
-  "deploy": "https://keithmurph.github.io/tensorFlowSmartCam/",
-  "tech": "TensorFlow.js, JS, CSS, HTML"
 
-}
-,
 {
     
   "id": 5,
