@@ -13,6 +13,37 @@ align-items: center;
 h1 {
   color: #FFFF;
   text-align: center;
+  background-color: #5e7189;
+  padding: 10px;
+  border-radius: 3rem;
+}
+#nameProject {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-size: 3rem;
+  background-color: #5e7189;
+}
+
+
+
+.description-text-center {
+
+  text-align: center;
+  font-size: 2.5rem;
+  background-color: #3e444a;
+  border-radius: 5rem;
+}
+.icons-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
 }
 
 @media (max-width: 575.98px) { 

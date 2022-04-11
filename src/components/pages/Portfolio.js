@@ -12,9 +12,10 @@ export default function Portfolio() {
       <div className="container">
       
           <h1 id="portfolio" className="top-title text-center">
-            My Portfolio
+            MY PORTFOLIO
           </h1>
-     
+          <br></br>
+         
 
         <Wrapper id="card-data">
           {projects.map((project) => (

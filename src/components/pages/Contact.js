@@ -61,7 +61,7 @@ export default function Contact() {
         
           <a
             class="col-md-4"
-            href="mailto: keithmurphy.dev@gmail.com"
+            href="mailto:keithmurphy.dev@gmail.com"
             rel="noreferrer"
           >
             <img

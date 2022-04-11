@@ -3,12 +3,12 @@
   {
 
     "id": 1,
-    "name": "There and back Again",
+    "name": "THERE AND BACK AGAIN",
     "description": "LOTR walking companion",
     "image": "https://i.postimg.cc/dV4nsphQ/Screenshot-2022-04-08-034350.jpg",
     "github": "https://github.com/ksapir/There-And-Back-Again",
     "deploy": "https://there-and-back-again-front.herokuapp.com/",
-    "tech": "JavaScript, React, MongoDB"
+    "tech": "JS, React, MongoDB"
     
     
     },
@@ -16,12 +16,12 @@
   {
     
       "id": 2,
-      "name": "Perfect Home",
+      "name": "PERFECT HOME",
       "description": "Pet adoption App",
       "image": "https://i.postimg.cc/ydprVFXK/Screenshot-2021-08-24-234915.png",
       "github": "https://github.com/KeithMurph/PerfectHome",
       "deploy": "https://perfect-home-finder.herokuapp.com",
-      "tech": "JavaScript, Handlebars, MySQL"
+      "tech": "JS, Handlebars, MySQL"
 
   },
 
@@ -33,42 +33,54 @@
     "image": "https://i.postimg.cc/NMKZ2J0F/Screenshot-2021-08-22-204634.png",
     "github": "https://github.com/KeithMurph/budgetTrackerPWA",
     "deploy": "https://budget-tracker-pwa-kmurph.herokuapp.com/",
-    "tech": "JavaScript, MongoDB, Node, Express"
+    "tech": "JS, MongoDB, Node, Express"
 
 },
 
 {
     
   "id": 4,
-  "name": "Wordle Clone",
+  "name": "TENSORFLOW.JS SMART CAM",
+  "description": "Image recognition in the browser",
+  "image": "https://i.postimg.cc/qvKMV29S/smartcam-Screen-04-11-092934.jpg",
+  "github": "https://github.com/KeithMurph/tensorFlowSmartCam",
+  "deploy": "https://keithmurph.github.io/tensorFlowSmartCam/",
+  "tech": "TensorFlow.js, JS, CSS, HTML"
+
+}
+,
+{
+    
+  "id": 5,
+  "name": "WORDLE CLONE",
   "description": "My clone for unlimited plays!",
   "image": "https://i.postimg.cc/NfWdkFt9/Screenshot-2022-02-04-102616.png",
   "github": "https://github.com/KeithMurph/Wordle",
   "deploy": "https://github.com/KeithMurph/Wordle",
-  "tech": "JavaScript, CSS, HTML"
+  "tech": "JS, CSS, HTML"
 
 }
 ,
 
 {
-  "id": 5,
-  "name": "Live Code Editor",
+  "id": 6,
+  "name": "LIVE CODE EDITOR",
   "description": "A live code editor for the web!",
   "image": "https://i.postimg.cc/BvRTt043/Screenshot-2022-04-08-030622.jpg",
   "github": "https://github.com/KeithMurph/codeEditor",
   "deploy": "https://keithmurph.github.io/codeEditor/",
-  "tech": "JavaScript, HTML, CSS"
+  "tech": "JS, HTML, CSS"
 
 },
 {
     
-  "id": 6,
-  "name": "Password Generator",
+  "id": 7,
+  "name": "PASSWORD GENERATOR",
   "description": "Generate a secure password!",
   "image": "https://i.postimg.cc/hj0Qxr3F/Screenshot-2021-08-26-005304.png",
   "github": "https://github.com/KeithMurph/passwordgenerator",
   "deploy": "https://keithmurph.github.io/passwordgenerator/",
-  "tech": "JavaScript, CSS, HTML"
+  "tech": "JS, CSS, HTML"
 
 }
 
