@@ -7,7 +7,17 @@ align-items: center;
   background: radial-gradient(circle, rgba(178,183,223,0.3897934173669467) 0%, rgba(148,187,233,1) 11%, rgba(149,180,222,1) 66%, rgba(39,116,150,1) 95%);
 }
 
-
+/* .icons-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+} */
+.icons-container :hover {
+  cursor: pointer;
+  opacity: 0.6;
+}
 
 
 h1 {
