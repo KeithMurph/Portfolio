@@ -13,6 +13,7 @@ export default function About() {
           class="rounded mx-auto d-block"
           alt="avatar"
         />
+        <br></br>
 
         <div>
           <h1 class="contact">⚫FULL-STACK WEB DEVELOPER⚫<br></br>

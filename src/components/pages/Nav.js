@@ -20,7 +20,7 @@ export default function Navigation(props) {
           </NavLink>
         </Navbar>
       </div>
-      <hr/>
+    
     </div>
   
   );
