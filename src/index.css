@@ -42,6 +42,8 @@ h1.contactHead {
   padding: 10px;
   border-radius: 3rem;
   border: 3px solid rgba(178,183,223,0.3897934173669467) ;
+  width: 100%;
+ 
 }
 #nameProject {
   text-align: center;
@@ -106,6 +108,7 @@ a.nav-link{
 a.nav-link:hover{
   color: #fff;
 }
+
 
 @media (max-width: 575.98px) { 
   :root {
