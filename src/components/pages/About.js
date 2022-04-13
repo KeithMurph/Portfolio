@@ -4,7 +4,7 @@ export default function About() {
   return (
     <div>
       <div className="container">
-        <h1 className="top-title text-center">KEITH MURPHY</h1>
+        <h1 className="contactHead">KEITH MURPHY</h1>
         <br></br>
 
         <img
@@ -15,13 +15,13 @@ export default function About() {
         />
 
         <div>
-          <h1 class=" text-center">⚫FULL-STACK WEB DEVELOPER⚫<br></br>
+          <h1 class="contact">⚫FULL-STACK WEB DEVELOPER⚫<br></br>
             Creative mind ready to utilize my passion for tech and creating apps
             to follow a dream career.<br></br>
             Recent graduate of the University of Washington Full-Stack Web Development Bootcamp.
           </h1>
 
-          <h1 className="text-center">
+          <h1 className="contact">
             💻 Languages
             <br />
             <img
@@ -41,7 +41,7 @@ export default function About() {
             HTML
           </h1>
 
-          <h1 className="text-center">
+          <h1 className="contact">
             ⌨️ Technical Skills
             <br></br>
             <img

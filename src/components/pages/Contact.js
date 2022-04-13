@@ -4,10 +4,10 @@ export default function Contact() {
   return (
     <div>
       <div className="container">
-        <h1 className="top-title text-center text-dark">Contact Me</h1>
+        <h1 className="contactHead">Contact Me</h1>
         <br></br>
         <br></br>
-        <h1 className="text-center text-light">
+        <h1 className="contact">
           Resume
           <a
             class="col-md-4"
@@ -21,7 +21,7 @@ export default function Contact() {
             />
           </a>
         </h1>
-        <h1 className="text-center text-light">
+        <h1 className="contact">
           GitHub
           <a
             href="https://github.com/KeithMurph"
@@ -36,7 +36,7 @@ export default function Contact() {
       
         </h1>
 
-        <h1 className="text-center text-light">
+        <h1 className="contact">
           LinkedIn
           <a
             class="col-md-4"
@@ -57,7 +57,7 @@ export default function Contact() {
    
 
 
-        <h1 className="text-center text-light">
+        <h1 className="contact">
         
           <a
             class="col-md-4"

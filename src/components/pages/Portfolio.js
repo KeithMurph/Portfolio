@@ -11,7 +11,7 @@ export default function Portfolio() {
     <div >
       <div className="container">
       
-          <h1 id="portfolio" className="top-title text-center">
+          <h1 id="portfolio" className="top-title">
             MY PORTFOLIO
           </h1>
           <br></br>
