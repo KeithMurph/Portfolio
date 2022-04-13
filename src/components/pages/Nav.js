@@ -8,7 +8,7 @@ export default function Navigation(props) {
       <div className="navigation">
         <Navbar className="justify-content-center" variant="pills">
           <NavLink className="nav-link" to="/about">
-          ABOUT ME
+          ABOUT
           </NavLink>
 
           <NavLink className="nav-link" to="/portfolio">
