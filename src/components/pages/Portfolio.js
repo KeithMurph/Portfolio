@@ -9,17 +9,18 @@ export default function Portfolio() {
   }
   return (
     <div >
-      <div className="container">
-      
-          <h1 id="portfolio" className="top-title">
+            <h1 id="portfolio" className="top-title">
             MY PORTFOLIO
           </h1>
+      <div className="container">
+      
+    
           <br></br>
          
 
-        <Wrapper id="card-data">
+        <Wrapper>
           {projects.map((project) => (
-            <ProjectCard
+            <ProjectCard 
               key={project.id}
               name={project.name}
               image={project.image}
@@ -33,20 +34,21 @@ export default function Portfolio() {
         </Wrapper>
       
         <br/>
-        <h1 className="text-center text-light">
-              
-          <a
-            class="col-md-4"
-            href="https://www.npmjs.com/~fakiehawk"
-            target="_blank"
-            rel="noreferrer"
-          >
-          <img src="https://img.icons8.com/color/100/000000/npm.png" alt="npm icon"/>
-          </a>
-            / fakiehawk
-                  </h1>
+      
        
       </div>
+      <h1 className="text-center text-light">
+              
+              <a
+                class="col-md-4"
+                href="https://www.npmjs.com/~fakiehawk"
+                target="_blank"
+                rel="noreferrer"
+              >
+              <img src="https://img.icons8.com/color/100/000000/npm.png" alt="npm icon"/>
+              </a>
+                / fakiehawk
+                      </h1>
     </div>
   );
 }

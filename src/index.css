@@ -38,12 +38,23 @@ h1.contact {
 h1.contactHead {
   color: #ffff;
   text-align: center;
-  background-color: #5e7189;
-  padding: 10px;
+  background-color: #5e7189 ;
   border-radius: 3rem;
-  border: 3px solid rgba(178,183,223,0.3897934173669467) ;
-  width: 100%;
+  border: 3px solid rgba(178,183,223,0.3897934173669467);
+
  
+}
+.aboutHead h1 {
+  color: #ffff;
+  text-align: center;
+  background-color: #5e7189 ;
+  border-radius: 3rem;
+  border: 3px solid rgba(178,183,223,0.3897934173669467);
+  font-size: 3rem;
+  max-width: 50%;
+  margin: auto;
+  
+
 }
 #nameProject {
   text-align: center;
@@ -97,7 +108,6 @@ h1.contactHead {
 #portfolio.top-title {
   font-size: 3rem;
   font-weight: bold;
-  font-style: italic;
   color: #000;
 }
 
@@ -108,6 +118,18 @@ a.nav-link{
 a.nav-link:hover{
   color: #fff;
 }
+
+#avatar.rounded.mx-auto.d-block {
+  border: 3px solid rgba(39,116,150,1);
+}
+
+.card-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
 
 
 @media (max-width: 575.98px) { 

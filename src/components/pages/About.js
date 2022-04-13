@@ -3,8 +3,11 @@ import React from "react";
 export default function About() {
   return (
     <div className="name">
-      <h1 className="contactHead">KEITH MURPHY</h1>
-      <div className="container">
+      
+      <header className="aboutHead"> 
+      <h1>KEITH MURPHY</h1>
+      </header>
+      <div className="aboutMe">
         
         <br></br>
 
