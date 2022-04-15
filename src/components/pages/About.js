@@ -11,16 +11,23 @@ export default function About() {
         
         <br></br>
 
+        <h1 class="job">
+          ⚫FULL-STACK WEB DEVELOPER⚫
+            </h1>
+            <br></br>
         <img
           id="avatar"
           src="https://i.postimg.cc/5ymYqTDL/profile-Pic.jpg"
           class="rounded mx-auto d-block"
           alt="avatar"
         />
+
         <br></br>
 
         <div>
-          <h1 class="contact">⚫FULL-STACK WEB DEVELOPER⚫<br></br>
+          
+
+          <h1 class="contact">
             Creative mind ready to utilize my passion for tech and creating apps
             to follow a dream career.<br></br>
             Recent graduate of the University of Washington Full-Stack Web Development Bootcamp.

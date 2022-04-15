@@ -6,7 +6,7 @@ export default function Contact() {
       <div className="contact">
         <h1 className="contactHead">Contact Me</h1>
         <br></br>
-        <br></br>
+      
         <h1 className="contact">
           Resume
           <a
@@ -15,7 +15,7 @@ export default function Contact() {
             target="_blank"
             rel="noreferrer"
           >
-            <img
+            <img 
               src="https://img.icons8.com/bubbles/100/000000/resume.png"
               alt="resume"
             />
@@ -27,8 +27,8 @@ export default function Contact() {
             href="https://github.com/KeithMurph"
             target="_blank"
             rel="noreferrer"
-          >
-            <img
+          > 
+            <img 
               src="https://img.icons8.com/bubbles/100/000000/github.png"
               alt="github"
             />
@@ -45,7 +45,7 @@ export default function Contact() {
             rel="noreferrer"
           >
            
-            <img
+            <img 
               src="https://img.icons8.com/bubbles/100/000000/linkedin.png"
               alt="linkedIn"
             />
@@ -64,7 +64,7 @@ export default function Contact() {
             href="mailto:keithmurphy.dev@gmail.com"
             rel="noreferrer"
           >
-            <img
+            <img 
               src="https://img.icons8.com/bubbles/100/000000/email--v1.png"
               alt="email"
             />
