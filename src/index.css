@@ -19,15 +19,6 @@ justify-content: center;
   opacity: 0.6;
 }
 
-.contactImg :hover{
-  cursor: pointer;
-  opacity: 0.6;
-}
-
-h1.contact.img :hover{
-  cursor: pointer;
-  opacity: 0.6;
-}
 
 h1 {
   color: #FFFF;
@@ -151,6 +142,11 @@ h1#portfolio {
   border: 3px solid rgba(178,183,223,0.3897934173669467);
 }
 
+
+img.contact-icon:hover {
+  cursor: pointer;
+  opacity: 0.6;
+}
 
 @media (max-width: 575.98px) { 
   :root {
