@@ -1,32 +1,36 @@
 body {
-display: flex;
-flex-direction: column;
-align-items: center;
-justify-content: center;
+  font-family: "Courier New", Courier, monospace;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 
-  background: rgb(178,183,223);
-  background: radial-gradient(circle, rgba(178,183,223,0.3897934173669467) 0%, rgba(148,187,233,1) 11%, rgba(149,180,222,1) 66%, rgba(39,116,150,1) 95%);
+  background: rgb(178, 183, 223);
+  background: radial-gradient(
+    circle,
+    rgba(178, 183, 223, 0.3897934173669467) 0%,
+    rgba(148, 187, 233, 1) 11%,
+    rgba(149, 180, 222, 1) 66%,
+    rgba(39, 116, 150, 1) 95%
+  );
 }
-
 
 .icons-container :hover {
   cursor: pointer;
   opacity: 0.6;
 }
 
-.container h1 :hover{
+.container h1 :hover {
   cursor: pointer;
   opacity: 0.6;
 }
 
-
 h1 {
-  color: #FFFF;
+  color: #ffff;
   text-align: center;
   background-color: #5e7189;
   padding: 10px;
   border-radius: 3rem;
-
 }
 h1.contact {
   color: #ffff;
@@ -34,58 +38,52 @@ h1.contact {
   background-color: #5e7189;
   padding: 10px;
   border-radius: 3rem;
-  border: 3px solid rgba(39,116,150,1) ;
+  border: 3px solid rgba(39, 116, 150, 1);
 }
 h1.contactHead {
   color: #000000;
   text-align: center;
-  background-color: #5e7189 ;
+  background-color: #5e7189;
   border-radius: 3rem;
-  border: 3px solid rgba(178,183,223,0.3897934173669467);
+  border: 3px solid rgba(178, 183, 223, 0.3897934173669467);
   width: fit-content;
   margin: auto;
- 
 }
 .aboutHead h1 {
   color: #ffff;
   text-align: center;
-  background-color: #5e7189 ;
+  background-color: #5e7189;
   border-radius: 3rem;
-  border: 3px solid rgba(178,183,223,0.3897934173669467);
+  border: 3px solid rgba(178, 183, 223, 0.3897934173669467);
   font-size: 3rem;
   max-width: fit-content;
   margin: auto;
-  
-
 }
 #nameProject {
   text-align: center;
-  font-family: 'Roboto', sans-serif;
   color: rgb(0, 0, 0);
   font-weight: bold;
   font-size: 3rem;
   background-color: #5e7189;
-  border: 3px solid rgba(178,183,223,0.3897934173669467)
+  border: 3px solid rgba(178, 183, 223, 0.3897934173669467);
 }
 
 .tech-text-center {
   text-align: center;
   margin-top: 5px;
-  font-family: 'Roboto', sans-serif;
   color: rgb(0, 0, 0);
   font-weight: bold;
   font-size: 1.5rem;
   background-color: #5e7189;
-  border: 3px solid rgba(39,116,150,1)
+  border: 3px solid rgba(39, 116, 150, 1);
 }
 
 .description-text-center {
-
   text-align: center;
   font-size: 2.5rem;
   background-color: #3e444a;
   border-radius: 5rem;
-  border: 3px solid rgba(39,116,150,1)
+  border: 3px solid rgba(39, 116, 150, 1);
 }
 .icons-container {
   display: flex;
@@ -104,8 +102,7 @@ h1.contactHead {
   padding: 10px;
   border-radius: 3rem;
   background-color: #5e7189;
-  border: 3px solid rgba(39,116,150,1)
-  
+  border: 3px solid rgba(39, 116, 150, 1);
 }
 #portfolio.top-title {
   font-size: 3rem;
@@ -113,16 +110,16 @@ h1.contactHead {
   color: #000;
 }
 
-a.nav-link{
+a.nav-link {
   text-decoration: none;
   color: #000;
 }
-a.nav-link:hover{
+a.nav-link:hover {
   color: #fff;
 }
 
 #avatar.rounded.mx-auto.d-block {
-  border: 3px solid rgba(39,116,150,1);
+  border: 3px solid rgba(39, 116, 150, 1);
 }
 
 .job {
@@ -130,7 +127,7 @@ a.nav-link:hover{
   font-weight: bold;
   color: #000;
   background-color: #5e7189;
-  border: 3px solid rgba(39,116,150,1);
+  border: 3px solid rgba(39, 116, 150, 1);
   width: fit-content;
   margin: auto;
 }
@@ -139,25 +136,24 @@ h1#portfolio {
   font-size: 3rem;
   font-weight: bold;
   color: #000;
-  border: 3px solid rgba(178,183,223,0.3897934173669467);
+  border: 3px solid rgba(178, 183, 223, 0.3897934173669467);
 }
-
 
 img.contact-icon:hover {
   cursor: pointer;
   opacity: 0.6;
 }
 
-@media (max-width: 575.98px) { 
+@media (max-width: 575.98px) {
   :root {
-      --dark-blue: #161619;
-      --blue: #5e7189;
-      --light-blue: rgb(37, 25, 70);
-      --pink: rgb(255, 40, 113);
+    --dark-blue: #161619;
+    --blue: #5e7189;
+    --light-blue: rgb(37, 25, 70);
+    --pink: rgb(255, 40, 113);
   }
 
   .center {
-      display: flex; 
-      justify-content: center;
+    display: flex;
+    justify-content: center;
   }
 }
