@@ -40,7 +40,7 @@ export default function Portfolio() {
       <h1 className="text-center text-light">
               
               <a
-                class="col-md-4"
+                className="col-md-4"
                 href="https://www.npmjs.com/~fakiehawk"
                 target="_blank"
                 rel="noreferrer"

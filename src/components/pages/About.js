@@ -11,14 +11,14 @@ export default function About() {
         
         <br></br>
 
-        <h1 class="job">
+        <h1 className="job">
           ⚫FULL-STACK WEB DEVELOPER⚫
             </h1>
             <br></br>
         <img
           id="avatar"
           src="https://i.postimg.cc/5ymYqTDL/profile-Pic.jpg"
-          class="rounded mx-auto d-block"
+          className="rounded mx-auto d-block"
           alt="avatar"
         />
 
@@ -27,7 +27,7 @@ export default function About() {
         <div>
           
 
-          <h1 class="contact">
+          <h1 className="contact">
             Web Developer with a passion for learning and problem solving. Front-end focused, but I'm always looking to learn more about the back-end.
             Eager and ready to utilize my passion for tech and creating apps
             to follow a dream career.<br></br>

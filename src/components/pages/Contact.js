@@ -10,7 +10,7 @@ export default function Contact() {
         <h1>
           Resume
           <a
-            class="col-md-4"
+            className="col-md-4"
             href="https://drive.google.com/file/d/1s5ltQeJey-1JiQMR2FJriIWIrXyMjjQc/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
@@ -41,7 +41,7 @@ export default function Contact() {
         <h1>
           LinkedIn
           <a
-            class="col-md-4"
+            className="col-md-4"
             href="https://www.linkedin.com/in/keithmurph/"
             target="_blank"
             rel="noreferrer"
@@ -63,7 +63,7 @@ export default function Contact() {
         <h1>
         
           <a
-            class="col-md-4"
+            className="col-md-4"
             href="mailto:keithmurphy.dev@gmail.com"
             rel="noreferrer"
           >
