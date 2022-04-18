@@ -11,7 +11,7 @@ export default function Contact() {
           Resume
           <a
             class="col-md-4"
-            href="https://drive.google.com/file/d/1c9iIf4K0BGEjDXUtuxTh7YF-sad5sjD9/view?usp=sharing"
+            href="https://drive.google.com/file/d/1s5ltQeJey-1JiQMR2FJriIWIrXyMjjQc/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
           >
