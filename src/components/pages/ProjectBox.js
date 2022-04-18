@@ -8,7 +8,7 @@ export default function Portfolio(props) {
       </h1>
 
       <div className="img-container">
-        <img id="avatar" alt={props.name} src={props.image} class="rounded mx-auto d-block"
+        <img id="avatar" alt={props.name} src={props.image} className="rounded mx-auto d-block"
           />
       </div>
       <div className="content">
