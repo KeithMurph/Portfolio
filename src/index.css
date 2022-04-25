@@ -99,7 +99,7 @@ h1.contactHead {
 }
 
 .card-title-text-center {
-  color: #ffff;
+  color: rgb(0, 0, 0);
   text-align: center;
   background-color: #5e7189;
   border-radius: 3rem;
@@ -113,16 +113,18 @@ h1.contactHead {
   margin-top: 5px;
   color: rgb(0, 0, 0);
   font-size: auto;
+  font-weight: lighter;
   background-color: #5e7189;
-  border: 3px solid rgba(39, 116, 150, 1);
+  border: 3px solid rgba(178, 183, 223, 0.3897934173669467);
 }
 
 .description{
   text-align: center;
   font-size: auto;
+  font-weight: bold;
   background-color: #3e444a;
   border-radius: 5rem;
-  border: 3px solid rgba(39, 116, 150, 1);
+  border: 3px solid rgba(178, 183, 223, 0.3897934173669467);
 } 
 
 
@@ -143,8 +145,9 @@ h1.contactHead {
   border: 3px solid rgba(39, 116, 150, 1);
 }
 #portfolio.top-title {
-  color: #ffff;
+  color: rgb(0, 0, 0);
   text-align: center;
+  font-weight: bolder;
   background-color: #5e7189;
   border-radius: 3rem;
   width: fit-content;
@@ -156,6 +159,7 @@ h1.contactHead {
   justify-content: center;
   width: 100%;
   margin: auto;
+  border: 3px solid rgba(149, 180, 222, 1);
 }
 
 a.nav-link {
