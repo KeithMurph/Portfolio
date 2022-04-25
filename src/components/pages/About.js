@@ -18,9 +18,9 @@ export default function About() {
         <br></br>
 
         <h1 className="job">
-          ⚫FULL-STACK WEB DEVELOPER⚫
+          FULL-STACK WEB DEVELOPER
             </h1>
-            <br></br>
+        
       
 
         <br></br>

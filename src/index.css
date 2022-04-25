@@ -80,7 +80,7 @@ p {
 h1.contactHead {
   color: #000000;
   text-align: center;
-  background-color: rgb(39, 116, 150);
+  background-color: rgba(39, 116, 150, .71);
   border-radius: 3rem;
   border: 3px solid rgba(178, 183, 223, 0.3897934173669467);
   width: fit-content;
@@ -178,7 +178,7 @@ a.nav-link:hover {
 }
 
 .job {
-  font-size: 2.2rem;
+  font-size: auto;
   font-weight: bold;
   color: rgb(255, 255, 255);
   background-color: #5e7189;
