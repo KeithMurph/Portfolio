@@ -211,4 +211,7 @@ img.contact-icon:hover {
     display: flex;
     justify-content: center;
   }
+  .container {
+    column-count: 1;
+  }
 }
