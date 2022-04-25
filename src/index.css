@@ -16,6 +16,7 @@ body {
   );
 }
 
+
 .icons-container :hover {
   cursor: pointer;
   opacity: 0.6;
@@ -33,9 +34,6 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 100%;
-  height: 100%;
-
   padding: 1rem;
   margin: 1rem;
   border-radius: 1rem;
@@ -94,7 +92,7 @@ h1.contactHead {
   background-color: #5e7189;
   border-radius: 3rem;
   border: 3px solid rgba(178, 183, 223, 0.3897934173669467);
-  font-size: 3rem;
+  font-size:auto;
   max-width: fit-content;
   margin: auto;
   margin-bottom: 1rem;
@@ -106,9 +104,8 @@ h1.contactHead {
   background-color: #5e7189;
   border-radius: 3rem;
   border: 3px solid rgba(178, 183, 223, 0.3897934173669467);
-  font-size: 3rem;
-  max-width: fit-content;
-  margin-top: 1rem;
+  font-size: auto;
+  width: fit-content;
 }
 
 .tech-text-center {
@@ -116,14 +113,14 @@ h1.contactHead {
   margin-top: 5px;
   color: rgb(0, 0, 0);
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: auto;
   background-color: #5e7189;
   border: 3px solid rgba(39, 116, 150, 1);
 }
 
 .description{
   text-align: center;
-  font-size: 2.5rem;
+  font-size: auto;
   background-color: #3e444a;
   border-radius: 5rem;
   border: 3px solid rgba(39, 116, 150, 1);
@@ -138,7 +135,7 @@ h1.contactHead {
   margin: auto;
 }
 .nav-link {
-  font-size: 1.5rem;
+  font-size: auto;
   font-weight: bold;
   margin: 10px;
   padding: 10px;
@@ -150,10 +147,8 @@ h1.contactHead {
   color: #ffff;
   text-align: center;
   background-color: #5e7189;
-  padding: 10px;
   border-radius: 3rem;
   width: fit-content;
-  margin-bottom: 1rem;
 }
 
 .img-container {
@@ -198,6 +193,7 @@ img.contact-icon:hover {
   cursor: pointer;
   opacity: 0.6;
 }
+
 
 @media (max-width: 575.98px) {
   :root {
