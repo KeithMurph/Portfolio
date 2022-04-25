@@ -44,9 +44,9 @@ div.projectCard {
   display: inline-block;
   border-radius: 1rem;
   padding: 1rem;
-  background: rgb(39, 116, 150);
+  background: rgba(39, 116, 150, .65);
   margin-bottom: 1rem;
-  border: 1rem solid rgba(178, 183, 223, 0.3897934173669467);
+  border: 1rem solid rgba(0, 0, 0, 0.39);
 }
 
 h1 {
