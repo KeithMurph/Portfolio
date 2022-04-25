@@ -15,8 +15,7 @@ export default function Portfolio() {
       <div className="container">
       
     
-          <br></br>
-         
+      
 
         <Wrapper>
           {projects.map((project) => (

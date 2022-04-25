@@ -7,7 +7,7 @@ export default function Contact() {
         <h1 className="contactHead">Contact Me</h1>
         <br></br>
       
-        <h1>
+        <h1 className="contact">
           Resume
           <a
             className="col-md-4"
@@ -22,7 +22,7 @@ export default function Contact() {
             />
           </a>
         </h1>
-        <h1>
+        <h1 className="contact">
           GitHub
           <a
             href="https://github.com/KeithMurph"
@@ -38,7 +38,7 @@ export default function Contact() {
       
         </h1>
 
-        <h1>
+        <h1 className="contact">
           LinkedIn
           <a
             className="col-md-4"
@@ -60,7 +60,7 @@ export default function Contact() {
    
 
 
-        <h1>
+        <h1 className="contact">
         
           <a
             className="col-md-4"
@@ -73,7 +73,8 @@ export default function Contact() {
               alt="email"
             />
           </a>
-          keithmurphy.dev@gmail.com
+    <p>
+          keithmurphy.dev@gmail.com </p>
         </h1>
       </div>
       <div></div>

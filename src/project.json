@@ -13,17 +13,7 @@
     
     },
     
-  {
-    
-      "id": 2,
-      "name": "PERFECT HOME",
-      "description": "Pet adoption App",
-      "image": "https://i.postimg.cc/ydprVFXK/Screenshot-2021-08-24-234915.png",
-      "github": "https://github.com/KeithMurph/PerfectHome",
-      "deploy": "https://perfect-home-finder.herokuapp.com",
-      "tech": "JS, Handlebars, MySQL"
 
-  },
   {
     
     "id": 3,
@@ -34,9 +24,7 @@
     "deploy": "https://keithmurph.github.io/tensorFlowSmartCam/",
     "tech": "TensorFlow.js, JS, CSS, HTML"
   
-  }
-  ,
-
+  },
   {
     
     "id": 4,
@@ -46,22 +34,8 @@
     "github": "https://github.com/KeithMurph/budgetTrackerPWA",
     "deploy": "https://budget-tracker-pwa-kmurph.herokuapp.com/",
     "tech": "JS, MongoDB, Node, Express"
+  },
 
-},
-
-
-{
-    
-  "id": 5,
-  "name": "WORDLE CLONE",
-  "description": "My clone for unlimited plays!",
-  "image": "https://i.postimg.cc/NfWdkFt9/Screenshot-2022-02-04-102616.png",
-  "github": "https://github.com/KeithMurph/Wordle",
-  "deploy": "https://github.com/KeithMurph/Wordle",
-  "tech": "JS, CSS, HTML"
-
-}
-,
 
 {
   "id": 6,
@@ -75,6 +49,17 @@
 },
 {
     
+  "id": 2,
+  "name": "PERFECT HOME",
+  "description": "Pet adoption App",
+  "image": "https://i.postimg.cc/ydprVFXK/Screenshot-2021-08-24-234915.png",
+  "github": "https://github.com/KeithMurph/PerfectHome",
+  "deploy": "https://perfect-home-finder.herokuapp.com",
+  "tech": "JS, Handlebars, MySQL"
+
+},
+{
+    
   "id": 7,
   "name": "PASSWORD GENERATOR",
   "description": "Generate a secure password!",
@@ -83,9 +68,16 @@
   "deploy": "https://keithmurph.github.io/passwordgenerator/",
   "tech": "JS, CSS, HTML"
 
+},
+{
+    
+  "id": 5,
+  "name": "WORDLE CLONE",
+  "description": "My clone for unlimited plays!",
+  "image": "https://i.postimg.cc/NfWdkFt9/Screenshot-2022-02-04-102616.png",
+  "github": "https://github.com/KeithMurph/Wordle",
+  "deploy": "https://github.com/KeithMurph/Wordle",
+  "tech": "JS, CSS, HTML"
+
 }
-
-
-
-
 ]

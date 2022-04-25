@@ -6,6 +6,12 @@ export default function About() {
       
       <header className="aboutHead"> 
       <h1>KEITH MURPHY</h1>
+      <img
+          id="avatar"
+          src="https://i.postimg.cc/5ymYqTDL/profile-Pic.jpg"
+       
+          alt="avatar"
+        />
       </header>
       <div className="aboutMe">
         
@@ -15,12 +21,7 @@ export default function About() {
           ⚫FULL-STACK WEB DEVELOPER⚫
             </h1>
             <br></br>
-        <img
-          id="avatar"
-          src="https://i.postimg.cc/5ymYqTDL/profile-Pic.jpg"
-          className="rounded mx-auto d-block"
-          alt="avatar"
-        />
+      
 
         <br></br>
 
