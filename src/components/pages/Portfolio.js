@@ -46,7 +46,7 @@ export default function Portfolio() {
               >
               <img src="https://img.icons8.com/color/100/000000/npm.png" alt="npm icon"/>
               </a>
-                / fakiehawk
+                /fakiehawk
                       </h1>
     </div>
   );

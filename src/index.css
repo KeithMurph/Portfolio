@@ -8,7 +8,7 @@ body {
   justify-content: center;
   background: rgb(178, 183, 223);
   background: radial-gradient(
-    circle,
+    ellipse at center,
     rgba(178, 183, 223, 0.3897934173669467) 0%,
     rgba(148, 187, 233, 1) 11%,
     rgba(149, 180, 222, 1) 66%,
@@ -29,13 +29,13 @@ body {
 }
 .container{
   column-count: 2;
-  column-gap: 20px;
+  column-gap: 2rem;
   display: inline-block;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 1rem;
-  margin: 1rem;
+  padding: 3rem;
+
   border-radius: 1rem;
 }
 div.projectCard {
@@ -64,34 +64,34 @@ h1.contact {
   background-color: #5e7189;
   padding: 1rem;
   border-radius: 3rem;
-  border: .5rem solid rgba(39, 116, 150, 1);
+  border: .5rem solid rgba(0, 0, 0, 0.39);
   margin: auto;
   margin-bottom: 1rem;
   width: 80%;
- 
   
 }
 p {
- text-align: center;
+  text-align: center;
   width: fit-content;
   margin: auto;
   font-size: 1rem
 }
 h1.contactHead {
-  color: #000000;
+  color: #fff;
   text-align: center;
   background-color: #5e7189;
   border-radius: 3rem;
-  border: 3px solid rgba(178, 183, 223, 0.3897934173669467);
+  border: 3px solid rgba(0, 0, 0, 0.39);
   width: fit-content;
   margin: auto;
+  font-weight: bolder;
 }
 .aboutHead h1 {
   color: #ffff;
   text-align: center;
   background-color: #5e7189;
   border-radius: 3rem;
-  border: 3px solid rgba(178, 183, 223, 0.3897934173669467);
+  border: 3px solid rgba(0, 0, 0, 0.39);
   font-size:auto;
   max-width: fit-content;
   margin: auto;
@@ -103,7 +103,7 @@ h1.contactHead {
   text-align: center;
   background-color: #3e444a;;
   border-radius: 3rem;
-  border: 3px solid rgba(178, 183, 223, 0.3897934173669467);
+  border: 3px solid rgba(0, 0, 0, 0.39);
   font-size: auto;
   width: fit-content;
 }
@@ -114,7 +114,7 @@ h1.contactHead {
   color: rgb(0, 0, 0);
   font-size: auto;
   background-color: #5e7189;
-  border: 3px solid rgba(178, 183, 223, 0.3897934173669467);
+  border: 3px solid rgba(0, 0, 0, 0.39);
 }
 
 .description{
@@ -123,7 +123,7 @@ h1.contactHead {
   font-weight: bold;
   background-color: #3e444a;
   border-radius: 5rem;
-  border: 3px solid rgba(178, 183, 223, 0.3897934173669467);
+  border: 3px solid rgba(0, 0, 0, 0.39);
 } 
 
 
@@ -135,21 +135,24 @@ h1.contactHead {
   margin: auto;
 }
 .nav-link {
-  font-size: auto;
+  font-size: 1.5rem;
   font-weight: bold;
   margin: 10px;
   padding: 10px;
   border-radius: 3rem;
   background-color: #5e7189;
-  border: 3px solid rgba(39, 116, 150, 1);
+  border: 3px solid rgba(0, 0, 0, 0.39);
 }
 #portfolio.top-title {
-  color: rgb(0, 0, 0);
+  color: #fff;
   text-align: center;
   font-weight: bolder;
   background-color: #5e7189;
   border-radius: 3rem;
   width: fit-content;
+  border: 3px solid rgba(0, 0, 0, 0.39);
+  margin-top: 1rem;
+  margin-bottom: -1rem;
 }
 
 .img-container {

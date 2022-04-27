@@ -36,27 +36,33 @@ export default function About() {
           </h1>
 
           <h1 className="contact">
-            💻 Languages
+            💻Languages💻
             <br />
             <img
               src="https://img.icons8.com/color/48/000000/javascript--v1.png"
               alt="js"
             />{" "}
-            JavaScript
+            JavaScript 
+            <img
+              src="https://i.postimg.cc/kg43vqjG/icons8-python-48.png"
+              alt="python"
+            />{" "}
+            Python
             <img
               src="https://img.icons8.com/color/48/000000/css3.png"
               alt="css"
             />{" "}
-            CSS
+            CSS 
             <img
               src="https://img.icons8.com/color/48/000000/html-5--v1.png"
               alt="html"
             />{" "}
-            HTML
+            HTML 
+           
           </h1>
 
           <h1 className="contact">
-            ⌨️ Technical Skills
+            ⌨️Technical Skills⌨️
             <br></br>
             <img
               src="https://img.icons8.com/color/48/000000/nodejs.png"
@@ -78,16 +84,20 @@ export default function About() {
               alt="mysql"
             />
             MySQL
-            <img
-              src="https://img.icons8.com/color/48/000000/bootstrap.png"
-              alt="bootstrap"
-            />
-            Bootstrap
+            <br/>
             <img
               src="https://img.icons8.com/ios-filled/50/000000/git.png"
               alt="git"
             />
             Git
+          
+            <img
+              src="https://i.postimg.cc/rsP7wY4j/icons8-docker-48.png"
+              alt="docker"
+            />
+            Docker
+           
+
           </h1>
 
           <h3 className="text-center">
