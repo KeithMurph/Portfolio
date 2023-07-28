@@ -32,7 +32,7 @@ export default function About() {
             Web Developer with a passion for learning and problem solving. Front-end focused, but I'm always looking to learn more about the back-end.
             Eager and ready to utilize my passion for tech and creating apps
             to follow a dream career.<br></br>
-            ⭐Recent graduate of the University of Washington Full-Stack Web Development Bootcamp.⭐
+            ⭐Graduate of the University of Washington Full-Stack Web Development Bootcamp.⭐
           </h1>
 
           <h1 className="contact">
